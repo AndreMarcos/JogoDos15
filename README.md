@@ -3,6 +3,9 @@
 
 Jogo desenvolvido na linguagem C como entrega da atividade avaliativa de algoritmos no curso de Sistemas de Informação.
 
+Objetivo: O objetivo do jogo é organizar as peças em ordem, da esquerda para a direita,
+de cima a baixo fazendo a menor quantidade movimentos possível utilizando o
+espaço vazio para mover as peças.
 
 #### REGRAS                                    
                                                                    
